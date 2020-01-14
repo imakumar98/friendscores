@@ -1,0 +1,153 @@
+
+
+body{
+	font-family:'Exo';
+	background:#fafcff;
+}
+
+header{
+	
+	color:red;
+	
+}
+
+
+
+header h5 a{
+	color:#FFF;
+}
+
+header h5 a:hover{
+	color:#FFF;
+	text-decoration:none;
+}
+
+#enter-form{
+	padding:40px 60px 40px 50px;
+	
+	/* background: #f8f9fa; */
+	/* border: 2px solid #50596c; */
+
+}
+
+#enter-form-wrapper{
+	margin-top:50px;
+}
+
+#enter-form-wrapper h4, #enter-form-wrapper h5{
+	color: #50596c;
+}
+
+#start-button{
+	background:#D3312D;
+	border:none;
+}
+
+.question{
+	border: 2px solid #50596c;
+	padding:50px;
+	border-radius:5px;
+	background: #f8f9fa;
+}
+
+.question .question-text{
+	font-weight: 500;
+	font-size:20px;
+	color: #505969;
+	
+}
+
+.option{
+	/*padding:10px 20px 10px 20px;*/
+	border:1px solid #cbcbcb;
+	background: #FFF;
+	margin-top:20px;
+	cursor:pointer;
+}
+
+.option p{
+	font-size:18px;
+}
+
+
+
+
+.challenge-completed-div h2{
+	color:#D3312D;
+	font-weight: bold;
+}
+
+.challenge-completed-div h5{
+	color:#50596c;
+}
+
+#copy-btn{
+	background:#D3312D;
+	border:none;
+	color:#FFF;
+	margin-top:15px;
+}
+
+.my-btn{
+	background:#D3312D
+	border:none;
+	color:#FFF;
+}
+
+.active-question{
+    display:block;
+}
+
+.inactive-question{
+    display:none;
+}
+
+.social-media-button{
+    color:#FFF;
+    text-decoration:none;
+    padding:8px;
+    border-radius: 3px;
+    cursor:pointer;
+    margin-right:10px;
+}
+
+.social-media-button:hover{
+    text-decoration:none;
+    color:#FFF;
+}
+
+
+
+/* CSS Written on Improving features */
+
+
+#enter-form-wrapper .steps ul {
+	list-style: none;
+}
+
+
+footer{
+	margin-top:100px;
+	padding-bottom:20px;
+}
+
+
+footer .social-links {
+	list-style:none;
+	margin:0;
+	padding:0;
+	display:flex;
+	justify-content: center;
+}
+
+footer .social-links li{
+	font-size:20px;
+	padding:10px;
+}
+
+
+nav{
+	border-bottom:1px solid #e5e5e5;
+	margin-bottom:50px;
+}
+
